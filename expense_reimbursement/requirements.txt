@@ -1,0 +1,6 @@
+fastapi
+flask
+uvicorn
+litellm
+google-cloud-aiplatform
+requests
